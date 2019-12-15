@@ -3,7 +3,7 @@ class Mastermind < Formula
   @@repo = "mastermind"
   @@tool = "mastermind"
 
-  desc "Mastermind - code breaking game"
+  desc "Code breaking game"
   homepage "https://github.com/codeliveroil/#{@@repo}"
   url "https://github.com/codeliveroil/#{@@repo}.git", :tag => @@ver, :using => :git
   version @@ver
