@@ -4,14 +4,14 @@ This repo is a [Homebrew Tap](https://docs.brew.sh/Taps) that catalogues `macOS`
 
 ## Installation
 
-1. Install Homebrew from here: [brew.sh](https://brew.sh/)
+1. Install Homebrew from [brew.sh](https://brew.sh/)
 1. Tap into the `codeliveroil` Homebrew repo by running this command:
     ```console
     brew tap codeliveroil/apps
     ```
 1. Now you can list all the tools available by running:
 	```console
-	brew search | grep codeliveroil
+	brew search codeliveroil
 	```
 1. You can install any tool by running:
     ```console
@@ -20,4 +20,3 @@ This repo is a [Homebrew Tap](https://docs.brew.sh/Taps) that catalogues `macOS`
     E.g.
     brew install mastermind
     ```
-
