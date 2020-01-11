@@ -1,5 +1,5 @@
 class Clr < Formula
-  @@ver = "1.0"
+  @@ver = "1.1"
   @@repo = "clr"
   @@tool = "clr"
 
